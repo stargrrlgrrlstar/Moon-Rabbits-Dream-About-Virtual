@@ -34,7 +34,7 @@
 @import url("https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/pop.css");
 
 /* Reverse the position of Server list and members */
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/reverse.css');
+/* @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/reverse.css'); */
 
 /*------------------------------------------------------
                 all the customization
@@ -44,15 +44,15 @@
     --custom-text: "TSUKINO MITO";
 
     /* General Colors */
-    --border-color: #da4a60;
-    --drag-gradient1: #e8c4d3;
-    --drag-gradient2: #e39ba7;
-    --name-bg: #d95b72;
+    --border-color: #9c4ada;
+    --drag-gradient1: #e2c4e8;
+    --drag-gradient2: #e39bcd;
+    --name-bg: #b95bd9;
 
     /* Background Colors & BG Image */
-    --bg-gradient1: #e297b2;
-    --bg-gradient2: #c0b4d5;
-    --bg-gradient3: #54b5de;
+    --bg-gradient1: #17070d;
+    --bg-gradient2: #140e1f;
+    --bg-gradient3: #05272a;
     --bg-image: none; /* Write the image url, example url("your url") [none is default]*/
     --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
@@ -68,7 +68,7 @@
     --darkL: 16%;   /* Value in % [16% is default] */
 
     /* Windows Buttons Colors */
-    --close-color: #da5169;
+    --close-color: #d6435b;
     --max-color: #ffdf5b;
     --min-color: #00a0cb;
 
@@ -80,12 +80,12 @@
     --streaming-color: #f066f0;
 
     /* Chatbar Colors */
-    --channeltextarea-background: #F0F2F2;
+    --channeltextarea-background: #a0ec91;
     --text-color: #313D40;
     --icon-color: var(--text-color);
     --selected-text-bg: var(--text-color);
     --selected-text-color: var(--channeltextarea-background);
-    --mentioned-color: 200, 100%, 60%; /* HSL Values Only */
+    --mentioned-color: 84, 100%, 70%; /* HSL Values Only */ 
 
     /* Other options */
     --border-width: 3px;
