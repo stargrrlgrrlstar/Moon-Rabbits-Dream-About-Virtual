@@ -44,9 +44,9 @@
     --custom-text: "TSUKINO MITO";
 
     /* General Colors */
-    --border-color: #9c4ada;
-    --drag-gradient1: #e2c4e8;
-    --drag-gradient2: #e39bcd;
+    --border-color: #5f0e9d;
+    --drag-gradient1: #0b1b00;
+    --drag-gradient2: #0d0018;
     --name-bg: #b95bd9;
 
     /* Background Colors & BG Image */
@@ -58,9 +58,9 @@
     --bg-blur: 6px; /* Value in px */
 
     /* HSL(Hue, Saturation, Lightness). This values will change the accent color (That blue color in most buttons) */
-    --H: 86; /* Value in numbers [339 is default] */
-    --S: 100%; /* Value in % [97% is default] */
-    --L: 70%; /* Value in % [71% is default] */ 
+    --H: 84; /* Value in numbers [339 is default] */
+    --S: 95%; /* Value in % [97% is default] */
+    --L: 50%; /* Value in % [71% is default] */ 
 
     /* HSL DarkTheme */
     --darkH: 0;     /* Value in numbers [0 is default] */
@@ -68,15 +68,15 @@
     --darkL: 1%;   /* Value in % [16% is default] */
 
     /* Windows Buttons Colors */
-    --close-color: #d6435b;
-    --max-color: #ffdf5b;
-    --min-color: #00a0cb;
+    --close-color: #e02141;
+    --max-color: #efff5b;
+    --min-color: #009ae2;
 
     /* Status Colors */
     --online-color: #60e046;
-    --idle-color: #ffca3a;
+    --idle-color: #fff83a;
     --dnd-color: #f73c3c;
-    --offline-color: #707070;
+    --offline-color: #453f49;
     --streaming-color: #f066f0;
 
     /* Chatbar Colors */
