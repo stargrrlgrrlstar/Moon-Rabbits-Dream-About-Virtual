@@ -18,7 +18,7 @@
 /*---------------------------------------------------------------
                Make it look Like Another Window
 ---------------------------------------------------------------*/
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/window-mode.css');
+/* @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/window-mode.css'); */
 
 /*---------------------------------------------------------------
                         Custom Settings
@@ -50,7 +50,7 @@
     --name-bg: #b95bd9;
 
     /* Background Colors & BG Image */
-    --bg-gradient1: #140208;
+    --bg-gradient1: #348100;
     --bg-gradient2: #090215;
     --bg-gradient3: #190051;
     --bg-image: none; /* Write the image url, example url("your url") [none is default]*/
